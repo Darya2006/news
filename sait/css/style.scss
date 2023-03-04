@@ -414,3 +414,49 @@ footer{
         }
     }
 }
+
+.aboutSectiononeo{
+    .aboutBlockone{
+        Width: 306px;
+        Height: 404px;
+        position: absolute;
+        left: 0%;
+        right: 0%;
+        top: 0%;
+        bottom: 0%;
+        border: 1px solid rgba(51, 51, 51, 0.2);     
+    }
+    .img{
+        img{
+            width:304px;
+            height: 220px;
+            position: relative;
+            left: 0.33%;
+            right: 0.33%;
+            top: 0.25%;
+            bottom: 45.3%;
+        }
+
+    }
+    p{
+        position: absolute;
+        left: 9.8%;
+        right: 9.8%;
+        top: 62.13%;
+        bottom: 24.01%;
+        font-family: 'Circe';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 20px;
+        line-height: 140%;
+        text-align: center;
+        color: #333333;
+    }
+    .item{
+        font-family: 'Circe';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 32px;
+        line-height: 120%;
+    }
+}
